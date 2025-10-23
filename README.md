@@ -14,7 +14,7 @@
 
 </div>
 
----
+<br>
 
 ## 🔭 Current Focus
 
@@ -29,7 +29,7 @@
 
 <br clear="both">
 
----
+<br>
 
 ## 🌐 Connect with me
 
@@ -51,7 +51,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
----
+<br>
 
 ## 💻 Tech Stack & Tools
 
@@ -69,7 +69,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🤖 AI/ML & AR
@@ -90,23 +90,22 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b87-43c1-b10e-06e43b4e1e49.gif" width="400">
 </div>
 
----
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HCODE-Collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HCODE-Collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCODE-Collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a9fef7&text_color=c9d1d9" alt="Top Languages" height="180em" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HCODE-Collab&theme=tokyonight&hide_border=true&background=0D1117&stroke=a9fef7&ring=a9fef7&fire=a9fef7&currStreakLabel=a9fef7" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCODE-Collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a9fef7&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
----
+<br>
 
 ## 🏆 GitHub Trophies
 
@@ -114,7 +113,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HCODE-Collab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
----
+<br>
 
 ## 📈 Contribution Graph
 
@@ -122,15 +121,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HCODE-Collab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a9fef7&line=a9fef7&point=ffffff" alt="Contribution Graph" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HCODE-Collab/HCODE-Collab/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
+<br>
 
 <div align="center">
   
@@ -140,18 +131,18 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
-  ### 🔥 Profile Views
+### 🔥 Profile Views
   
   <img src="https://komarev.com/ghpvc/?username=HCODE-Collab&color=a9fef7&style=for-the-badge&label=Profile+Views" alt="Profile views" />
   
 </div>
 
----
+<br>
 
 <div align="center">
   
@@ -160,5 +151,3 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Thanks for visiting! Let's connect and build something amazing together! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" />
 
 </div>
-
----
