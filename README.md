@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Herve+Mugisha+IKIRENGA;Full+Stack+Developer+%7C+AR+Enthusiast+%7C+ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Herve+Mugisha+IKIRENGA; Full+Stack+Developer+%7C+AR+Enthusiast+%7C+ML+Explorer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -129,8 +129,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/HCODE-Collab/HCODE-Collab/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-*Note: To enable the snake animation, you'll need to set up a GitHub Action. See instructions below.*
 
 ---
 
